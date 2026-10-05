@@ -38,6 +38,6 @@ gepa==0.0.17
 # Transitive via opik-optimizer, pinned because this image builds it from source: litellm
 # publishes no musllinux or pure-python wheel, and 1.95.0 raised its Rust dependencies to
 # aws-* crates requiring rustc 1.94.1, while the Alpine builder ships rustc 1.91.1.
-litellm==1.94.1
+litellm==1.94.3
 pyrate-limiter>=3.0.0,<4.0.0
 python-jsonpath>=2.0.0,<3.0.0
