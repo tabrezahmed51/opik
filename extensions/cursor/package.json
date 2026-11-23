@@ -105,8 +105,8 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@sentry/node": "^10.38.0",
-    "glob": "^11.1.0",
+    "@sentry/node": "^10.78.0",
+    "glob": "^14.0.2",
     "node-fetch": "^3.3.2",
     "opik": "^1.10.9",
     "uuid": "^11.0.3"
